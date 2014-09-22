@@ -91,6 +91,8 @@
                     <p>Sublime Text, Git and Coffee (the kind you drink)</p>
                     <p>Also, began using HTML5 Boiler Plate and Bootstrap</p>
                     <p class="bottom-sep"></p>
+                    <h2>It Is The Business Of The Future To Be Dangerous</h2>
+                    <p class="bottom-sep"></p>
                 </div>
             </div>
 
