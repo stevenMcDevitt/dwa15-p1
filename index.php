@@ -12,9 +12,7 @@
         <link href="css/main.css" rel="stylesheet">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
-
     <body>
-        
         <header>
             <div class="container">
                 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
