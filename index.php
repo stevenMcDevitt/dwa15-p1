@@ -29,9 +29,9 @@
                         <div class="collapse navbar-collapse" id="navbar-collapse-100">
                             <ul class="nav navbar-nav">
                                 <li class=active><a href="http://p1.iitbotftbd.com">P1 - Portfolio</a></li>
-                                <li><a href="../p2/p2.php">P2 - xkcd PwD</a></li>
-                                <li><a href="../p3/p3.php">P3 - TBD</a></li>
-                                <li><a href="../p4/p4.php">P4 - TBD</a></li>
+                                <li><a href="http://p2.iitbotftbd.com">P2 - xkcd PwD</a></li>
+                                <li><a href="http://p1.iitbotftbd.com">P3 - TBD</a></li>
+                                <li><a href="http://p1.iitbotftbd.com">P4 - TBD</a></li>
                             </ul>
                             <form class="navbar-form navbar-right" role="search">
                                 <div class="input-group custom-search-form">
