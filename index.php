@@ -2,7 +2,6 @@
 <html class="no-js">
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=10">
         <title>DWA15 - Steven McDevitt</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,7 +58,7 @@
 
             <div class="row">
                 <div class="col-md-12">
-                    <h1>A Brief Description of Me<img class="img-rounded img-responsive image-right hidden-xs hidden-sm" src="img/mcdevitt01.jpg"></h1>
+                    <h1>A Brief Description of Me<img class="img-rounded img-responsive image-right hidden-xs hidden-sm" src="img/mcdevitt01.jpg" alt="Photo of Steven McDevitt"></h1>
                     <p>My professional passion is focused on leveraging information technology, in the form of people, services, process and planning to support the mission of an organization.  This mission centric sensibility has been developed over the last two decades as I have had the good fortune and privilege of serving within organizations with important and interesting missions.</p>
                     <p>My experience includes technical and leadership positions in the federal government (Federal Emergency Management Agency (FEMA), Executive Office of the President, and the Board of Governors of the Federal Reserve System), large non-profit organization (Archdiocese of Boston) and in small (InteliData Technologies) and large (Bank One, Booz Allen Hamilton) corporate environments.</p>
                     <p>Currently I serve in the role of Director of Information Technology for the Archdiocese of Boston with the specific purpose of right sizing and modernizing the enterprise management, resource planning on information technology infrastructure of the organization.  With a small team and a small budget, we transformed the operating model to improve the mission focus of the organization.</p>
