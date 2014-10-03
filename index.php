@@ -2,7 +2,7 @@
 <html class="no-js">
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="X-UA-Compatible" content="IE=10">
         <title>DWA15 - Steven McDevitt</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="jumbotron col-md-12">
                     <h1>Steven McDevitt</h1>
-                    <h1>Dynamic Web Applications Portfolio
+                    <h1>Dynamic Web Applications Portfolio</h1>
                 </div>
             </div>
 
